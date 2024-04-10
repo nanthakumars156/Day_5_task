@@ -1,0 +1,44 @@
+{
+    "basics": {
+      "name": "Nantha kumar S",
+      "email": "nanthakumars156@gmail.com",
+      "phone": 9524490898,
+      "degree": "M.E",
+      "location": {
+        "address": "182/78, Mariamman kovil street",
+        "pinCode": 636005,
+        "city": "Salem",
+        "state": "Tamilnadu",
+        "country": "India"
+      }
+    },
+    "work": [
+      {
+        "company": "TCS",
+        "position": "System Engineer",
+        "startDate": "15-April-2021",
+        "summary": "i am a System Engineer handling various task and gaining lots of experience",
+      }
+    ],
+    "education": [
+      {
+        "institution": "Government College Of Engineering",
+        "department": "Power Electronics and drives",
+        "studyType": "fulltime",
+        "batch start year": 2019,
+        "batch end year": 2021,
+        "cgpa": 9.02
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "beginner"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English"
+      }
+    ]
+  }
